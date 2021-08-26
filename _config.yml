@@ -29,9 +29,11 @@ twitter_username: @JenniferENMSc
 github_username:  jenniferen
 
 # Build settings
-theme: minima
+markdown: kramdown
+theme: hacker
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
